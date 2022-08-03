@@ -1,5 +1,7 @@
 # The Doge Trader Evidence
 
+<img src="attachments/0.jpg" title="" alt="" width="575">
+
 Open labhard-ftk.001 with AccessData FTK Imager and locate to Recycle Bin.
 
 ![](attachments/1.jpg)
@@ -82,8 +84,6 @@ Found pastebin link inside \./word/_rels/settings.xml.rels
 It's base-64 encoded string. After decoded it you'll get flag.
 
 ![](attachments/13.jpg)
-
-
 
 ![](attachments/14.jpg)
 

@@ -1,5 +1,7 @@
 # New CVE
 
+<img src="attachments/0.jpg" title="" alt="" width="527">
+
 It's Django SQL injection.
 
 I use Error-Based SQL injection.
