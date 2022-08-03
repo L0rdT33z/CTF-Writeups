@@ -2,7 +2,7 @@
 
 <img src="attachments/0.jpg" title="" alt="" width="584">
 
-Try to upload file with semicolon in a file name.
+Try to upload file with single quote in a file name.
 
 ![](attachments/1.jpg)
 
